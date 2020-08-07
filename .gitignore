@@ -18,7 +18,7 @@ Icon
 .ipynb_checkpoints
 
 # Data
-data/
+# data/
 *.csv
 *.log
 
